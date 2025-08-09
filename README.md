@@ -71,6 +71,25 @@ source venv/bin/activate       # On Linux/macOS
 pip install -r requirements.txt
 py -3.10 main_app.py
 ```
+
+# Exporting the app with PyInstaller
+If you want to package the app into a standalone Windows executable, you can use PyInstaller with the following command (run inside your activated Python 3.10 environment):
+
+```bash
+py -3.10 -m PyInstaller --noconfirm --onedir --noconsole --strip --upx-dir "C:\upx" `
+    --exclude-module "matplotlib" `
+    --exclude-module "numpy" `
+    --exclude-module "pandas" `
+    --exclude-module "tensorflow" `
+    --exclude-module "torch" `
+    --name "SEO Local ONLY" main_app.py `
+    --add-data ".\font;font" `
+    --add-data ".\.env;."
+```
+Make sure you have UPX installed and the path C:\upx is correct for your system.
+The --exclude-module options reduce executable size by skipping heavy unused libs.
+The .env file and font folder are included as data for the executable to work properly.
+
 ---
 
 ## 5. Notes
