@@ -1,7 +1,8 @@
+````markdown
 # AutoSEO Writer
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
-[![Stars](https://img.shields.io/github/stars/username/repo?style=social)](https://github.com/username/repo)
+[![Stars](https://img.shields.io/github/stars/hieupham12345/seo-article-automation?style=social)](https://github.com/hieupham12345/seo-article-automation)
 
 ## 📑 Table of Contents
 1. [Introduction](#introduction)
@@ -9,7 +10,7 @@
 3. [Requirements](#requirements)
 4. [Installation](#installation)
 5. [Notes](#notes)
-6. [Usage & Demo](#Usage & Demo)
+6. [Usage & Demo](#usage--demo)
 7. [License](#license)
 8. [Contact](#contact)
 
@@ -19,14 +20,14 @@
 **AutoSEO Writer** is a fully automated SEO content generation tool that leverages APIs from **ChatGPT**, **Gemini**, and **Claude** (with the option to add other providers).  
 It produces complete, well-structured, and fully optimized SEO articles for various niches and languages.  
 
-The tool is designed to:
-- **Generate outlines** automatically
-- **Write based on the generated outline**
-- **Bulk write** multiple articles at once
+The tool is designed to:  
+- **Generate outlines** automatically  
+- **Write based on the generated outline**  
+- **Bulk write** multiple articles at once  
 - Deliver **SEO scores of 90–100%** for most content  
-- Provide **100% SEO optimization** for certain Latin-based languages
-- **Fix spun/duplicated content** using Google Search checks
-- **Auto-optimize images for SEO** (alt text, compression, naming)
+- Provide **100% SEO optimization** for certain Latin-based languages  
+- **Fix spun/duplicated content** using Google Search checks  
+- **Auto-optimize images for SEO** (alt text, compression, naming)  
 
 > This is a **personal project** developed during my student years.  
 > While I organized the code structure as best as I could, the lack of consistent comments may make it a bit hard to follow in some areas.  
@@ -36,26 +37,27 @@ The tool is designed to:
 ---
 
 ## 2. Features
-- **Multi-Provider AI Integration**: ChatGPT, Gemini, Claude (customizable to add more)
-- **Outline Generation**: Create detailed outlines automatically
-- **Full Article Writing**: Write content based on outline with SEO structure
-- **Bulk Writing Mode**: Generate multiple articles in one run
-- **High SEO Scores**: 90–100% on popular SEO tools
-- **Perfect SEO Optimization**: 100% for selected Latin-based languages
-- **Duplicate Content Check**: Google Search integration to fix spun content
-- **Auto SEO Image Optimization**: Add alt text, compress images, and rename automatically
-- **Markdown & Word Output**: Supports exporting to `.docx`
-- **CLI & Python Module**: Run from command line or integrate into your project
-  
+- **Multi-Provider AI Integration**: ChatGPT, Gemini, Claude (customizable to add more)  
+- **Outline Generation**: Create detailed outlines automatically  
+- **Full Article Writing**: Write content based on outline with SEO structure  
+- **Bulk Writing Mode**: Generate multiple articles in one run  
+- **High SEO Scores**: 90–100% on popular SEO tools  
+- **Perfect SEO Optimization**: 100% for selected Latin-based languages  
+- **Duplicate Content Check**: Google Search integration to fix spun content  
+- **Auto SEO Image Optimization**: Add alt text, compress images, and rename automatically  
+- **Markdown & Word Output**: Supports exporting to `.docx`  
+- **CLI & Python Module**: Run from command line or integrate into your project  
+
 ---
 
 ## 3. Requirements
-- **Python 3.10**
-- Required libraries (install via `requirements.txt`)
-- API keys for:
-  - OpenAI (ChatGPT)
-  - Google Gemini
+- **Python 3.10**  
+- Required libraries (install via `requirements.txt`)  
+- API keys for:  
+  - OpenAI (ChatGPT)  
+  - Google Gemini  
   ...
+
 ---
 
 ## 4. Installation
@@ -71,12 +73,14 @@ source venv/bin/activate       # On Linux/macOS
 
 pip install -r requirements.txt
 py -3.10 main_app.py
+````
 
 ---
 
 ## 5. Notes
 
-### Adding API Keys  
+### Adding API Keys
+
 To securely manage your API keys, create a `.env` file in the root directory of the project (same level as `main.py`), then add your keys in the following format:
 
 ```env
@@ -104,24 +108,26 @@ CLAUDE_API_KEY4=your_claude_api_key_4
 ERPER_SEARCH_API_1=your_erper_search_api_key
 GOOGLE_SEARCH_API=your_google_search_api_key
 ...
+```
 
 ---
 
 ## 6. Usage & Demo
 
-
 ---
 
 ## 7. License
-This project is licensed under the **MIT License**.  
+
+This project is licensed under the **MIT License**.
 See the [LICENSE](LICENSE) file for details.
 
 ---
 
 ## 8. Contact
+
 For any questions or business inquiries, feel free to reach out:
 
-- GitHub: [hieupham12345](https://github.com/hieupham12345)  
-- Email: tpmbdhieuvanpham@gmail.com
+* GitHub: [hieupham12345](https://github.com/hieupham12345)
+* Email: [tpmbdhieuvanpham@gmail.com](mailto:tpmbdhieuvanpham@gmail.com)
 
-
+```
