@@ -55,8 +55,7 @@ The tool is designed to:
 - Required libraries (install via `requirements.txt`)  
 - API keys for:  
   - OpenAI (ChatGPT)  
-  - Google Gemini  
-  ...
+  - Google Gemini  .v.v
 
 ---
 
@@ -107,7 +106,7 @@ CLAUDE_API_KEY4=your_claude_api_key_4
 # Other APIs
 ERPER_SEARCH_API_1=your_erper_search_api_key
 GOOGLE_SEARCH_API=your_google_search_api_key
-...
+.v.v
 ```
 
 ---
