@@ -125,6 +125,9 @@ GOOGLE_SEARCH_API=your_google_search_api_key
 .v.v
 ```
 
+### Adding new model here
+<img width="1009" height="613" alt="image" src="https://github.com/user-attachments/assets/c4e40c7c-a2d1-4338-85a5-ccde524b12c5" />
+
 ---
 
 ## 6. Usage & Demo
