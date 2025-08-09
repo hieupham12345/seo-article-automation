@@ -8,15 +8,10 @@
 2. [Features](#features)
 3. [Requirements](#requirements)
 4. [Installation](#installation)
-5. [Usage](#usage)
-    - [Run from CLI](#run-from-cli)
-    - [Import in Python](#import-in-python)
-6. [Project Structure](#project-structure)
-7. [Notes](#notes)
-8. [Example Output](#example-output)
-9. [Contributing](#contributing)
-10. [License](#license)
-11. [Contact](#contact)
+5. [Notes](#notes)
+6. [Usage & Demo](#Usage & Demo)
+7. [License](#license)
+8. [Contact](#contact)
 
 ---
 
@@ -64,7 +59,69 @@ The tool is designed to:
 ---
 
 ## 4. Installation
+Clone the repository and install dependencies using pip:
+
 ```bash
-git clone https://github.com/username/repo.git
-cd repo
+git clone https://github.com/hieupham12345/seo-article-automation.git
+cd seo-article-automation
+# Create and activate a virtual environment (recommended)
+python -m venv venv
+source venv/bin/activate       # On Linux/macOS
+.\venv\Scripts\activate        # On Windows
+
 pip install -r requirements.txt
+py -3.10 main_app.py
+
+---
+
+## 5. Notes
+
+### Adding API Keys  
+To securely manage your API keys, create a `.env` file in the root directory of the project (same level as `main.py`), then add your keys in the following format:
+
+```env
+# Gemini API keys
+GEMINI_API_KEY1=your_gemini_api_key_1
+GEMINI_API_KEY2=your_gemini_api_key_2
+GEMINI_API_KEY3=your_gemini_api_key_3
+GEMINI_API_KEY4=your_gemini_api_key_4
+GEMINI_API_KEY5=your_gemini_api_key_5
+
+# ChatGPT API keys
+CHATGPT_API_KEY1=your_chatgpt_api_key_1
+CHATGPT_API_KEY2=your_chatgpt_api_key_2
+CHATGPT_API_KEY3=your_chatgpt_api_key_3
+CHATGPT_API_KEY4=your_chatgpt_api_key_4
+CHATGPT_API_KEY5=your_chatgpt_api_key_5
+
+# Claude API keys
+CLAUDE_API_KEY1=your_claude_api_key_1
+CLAUDE_API_KEY2=your_claude_api_key_2
+CLAUDE_API_KEY3=your_claude_api_key_3
+CLAUDE_API_KEY4=your_claude_api_key_4
+
+# Other APIs
+ERPER_SEARCH_API_1=your_erper_search_api_key
+GOOGLE_SEARCH_API=your_google_search_api_key
+...
+
+---
+
+## 6. Usage & Demo
+
+
+---
+
+## 7. License
+This project is licensed under the **MIT License**.  
+See the [LICENSE](LICENSE) file for details.
+
+---
+
+## 8. Contact
+For any questions or business inquiries, feel free to reach out:
+
+- GitHub: [hieupham12345](https://github.com/hieupham12345)  
+- Email: tpmbdhieuvanpham@gmail.com
+
+
