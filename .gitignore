@@ -8,7 +8,7 @@ __pycache__/
 *.pyd
 
 # Virtual environments
-venv/
+.venv/
 .env/
 
 # VS Code settings
@@ -21,3 +21,4 @@ Thumbs.db
 build/
 dist/
 test_demo.ipynb
+config.json
