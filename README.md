@@ -1,7 +1,6 @@
 # AutoSEO Writer
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
-[![Stars](https://img.shields.io/github/stars/hieupham12345/seo-article-automation?style=social)](https://github.com/hieupham12345/seo-article-automation)
 
 ## 📑 Table of Contents
 1. [Introduction](#introduction)
