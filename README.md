@@ -1,4 +1,3 @@
-````markdown
 # AutoSEO Writer
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -62,7 +61,6 @@ The tool is designed to:
 ## 4. Installation
 Clone the repository and install dependencies using pip:
 
-```bash
 git clone https://github.com/hieupham12345/seo-article-automation.git
 cd seo-article-automation
 # Create and activate a virtual environment (recommended)
@@ -72,7 +70,6 @@ source venv/bin/activate       # On Linux/macOS
 
 pip install -r requirements.txt
 py -3.10 main_app.py
-````
 
 ---
 
@@ -128,5 +125,3 @@ For any questions or business inquiries, feel free to reach out:
 
 * GitHub: [hieupham12345](https://github.com/hieupham12345)
 * Email: [tpmbdhieuvanpham@gmail.com](mailto:tpmbdhieuvanpham@gmail.com)
-
-```
