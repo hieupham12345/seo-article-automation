@@ -1,0 +1,240 @@
+{
+    "seo_write": {
+        "number_of_h2": 3,
+        "number_of_h3": 3,
+        "number_of_image": 3,
+        "max_key": 17,
+        "language": "Vietnamese",
+        "seo_category": "Formal-Creative",
+        "input_folder": "C:\\Users\\Hieu Pham\\Downloads\\SEO",
+        "model_write": "Chatgpt 4.1 mini [1000]",
+        "model_outline": "Gemini 1.5 pro [1000]",
+        "model_normalize": "Chatgpt 4o mini [2000]",
+        "learn_data": "Kh\u00f4ng d\u00f9ng t\u1eeb nh\u01b0 anh em, c\u01b0\u1ee3c th\u1ee7, bet th\u1ee7 ...",
+        "outline_data": "",
+        "brand_keyword": "",
+        "keywords": "N\u1eb1m m\u01a1 th\u1ea5y s\u1ed1ng tr\u00ean \u0111\u1ea3o hoang, gi\u1ea3i m\u00e3 gi\u1ea5c m\u01a1, c\u00e1c con s\u1ed1 li\u00ean quan, soi c\u1ea7u gi\u1ea5c m\u01a1",
+        "word_density": 2.5
+    },
+    "image_optimization": {
+        "folder_path": "C:\\Users\\Hieu Pham\\Downloads\\anh seo",
+        "logo_path": "C:/Users/Hieu Pham/Downloads/anh seo/logo/Copy of B\u1ea3n sao c\u1ee7a N\u1ed9i dung \u0111o\u1ea1n v\u0103n b\u1ea3n c\u1ee7a b\u1ea1n.png",
+        "box_style": "gradient",
+        "format_logo": "jpg",
+        "format_no_logo": "webp",
+        "length": 800,
+        "width": 400,
+        "font_path": "font\\Bungee-Regular.ttf"
+    },
+    "token": "PvguKQ8q5G8k+iJlg8h11AOxHwCDs2wbEwnPBak47UyzfNvUhsjIgrzH6uleVqMrvpCgdwdgp5JjmDeN5Kuo90rC95XIxuUUAaOmRBWj7Yy2o9JYYqyzCXpPiENvjWO1n4tX+fFv6368+tLSpsXuCDeEIPnDj/JQxr3ZRzvQWrYQsabvjC5fiju+Vv9Pf8GeUrivfZ4AQ2X+0ezvM+e0I6rRhWX9OKA2LrKU4MMbFY2Lnhk8C7XswlmFI2bsHhBd9cgo2TDiLcZHesWmgrtwpfJ07knMVT9m5UKsoEN1X5Tp28wABhHkOMJkzRr9T98EeAbfr0EI0MzgssufFlR5Qz9PK+at5bnAw6K8PrdKIqRlGXl+eEaDdl1E1ILzd/31QCrjJ8mL3DifPOREiXE5sjuaZXXjLGu9S1vsSALWgbEI8YEThoFPk1O91cDtgOmKwsi6yfs=",
+    "username": "nhoczit111",
+    "credit": "1567792.00",
+    "id": 1,
+    "credit_history": {
+        "data": [
+            {
+                "amount": "1000.00",
+                "description": "Generate outline: Nh\u00e0 c\u00e1i l\u00e0 g\u00ec and gemini-2.0-flash",
+                "time": "2025-04-01 13:29:05"
+            },
+            {
+                "amount": "1000.00",
+                "description": "Generate outline: Nh\u00e0 c\u00e1i \u0111\u1ebfn t\u1eeb ch\u00e2u \u00c2u and gemini-2.0-flash",
+                "time": "2025-04-01 13:26:36"
+            },
+            {
+                "amount": "573.00",
+                "description": "Write SEO: T\u00e0i x\u1ec9u online and gemini-1.5-pro",
+                "time": "2025-04-01 10:14:54"
+            },
+            {
+                "amount": "1203.00",
+                "description": "Write SEO: T\u00e0i x\u1ec9u online and gemini-1.5-pro",
+                "time": "2025-04-01 10:14:47"
+            },
+            {
+                "amount": "1572.00",
+                "description": "Write SEO: T\u00e0i x\u1ec9u online and gemini-1.5-pro",
+                "time": "2025-04-01 10:14:35"
+            },
+            {
+                "amount": "1000.00",
+                "description": "Generate outline: T\u00e0i x\u1ec9u online and gemini-1.5-pro",
+                "time": "2025-04-01 10:14:15"
+            },
+            {
+                "amount": "512.00",
+                "description": "Write SEO: T\u00e0i x\u1ec9u online and gemini-2.0-flash",
+                "time": "2025-04-01 10:08:38"
+            },
+            {
+                "amount": "719.00",
+                "description": "Write SEO: T\u00e0i x\u1ec9u online and gemini-2.0-flash",
+                "time": "2025-04-01 10:08:28"
+            },
+            {
+                "amount": "534.00",
+                "description": "Write SEO: T\u00e0i x\u1ec9u online and gemini-2.0-flash",
+                "time": "2025-04-01 10:08:20"
+            },
+            {
+                "amount": "1000.00",
+                "description": "Generate outline: T\u00e0i x\u1ec9u online and gemini-2.0-flash",
+                "time": "2025-04-01 10:07:48"
+            },
+            {
+                "amount": "390.00",
+                "description": "Write SEO: Cristiano Ronaldo and gemini-2.0-flash",
+                "time": "2025-03-31 13:27:20"
+            },
+            {
+                "amount": "629.00",
+                "description": "Write SEO: Cristiano Ronaldo and gemini-2.0-flash",
+                "time": "2025-03-31 13:27:16"
+            },
+            {
+                "amount": "608.00",
+                "description": "Write SEO: Cristiano Ronaldo and gemini-2.0-flash",
+                "time": "2025-03-31 13:27:09"
+            },
+            {
+                "amount": "707.00",
+                "description": "Write SEO: Cristiano Ronaldo and gemini-2.0-flash",
+                "time": "2025-03-31 13:27:03"
+            },
+            {
+                "amount": "467.00",
+                "description": "Write SEO: Cristiano Ronaldo and gemini-2.0-flash",
+                "time": "2025-03-31 13:26:56"
+            },
+            {
+                "amount": "573.00",
+                "description": "Write SEO: Cristiano Ronaldo and gemini-2.0-flash",
+                "time": "2025-03-31 13:26:52"
+            },
+            {
+                "amount": "1000.00",
+                "description": "Generate outline: Cristiano Ronaldo and gemini-2.0-flash",
+                "time": "2025-03-31 13:26:25"
+            },
+            {
+                "amount": "320.00",
+                "description": "Write SEO: Game b\u1eafn c\u00e1 and gemini-2.0-flash",
+                "time": "2025-03-31 11:36:49"
+            },
+            {
+                "amount": "349.00",
+                "description": "Write SEO: Game b\u1eafn c\u00e1 and gemini-2.0-flash",
+                "time": "2025-03-31 11:36:45"
+            },
+            {
+                "amount": "317.00",
+                "description": "Write SEO: Game b\u1eafn c\u00e1 and gemini-2.0-flash",
+                "time": "2025-03-31 11:36:40"
+            },
+            {
+                "amount": "2290.00",
+                "description": "Write SEO: Game b\u1eafn c\u00e1 and claude-3-7-sonnet-20250219",
+                "time": "2025-03-31 11:35:42"
+            },
+            {
+                "amount": "2845.00",
+                "description": "Write SEO: Game b\u1eafn c\u00e1 and claude-3-7-sonnet-20250219",
+                "time": "2025-03-31 11:35:19"
+            },
+            {
+                "amount": "2080.00",
+                "description": "Write SEO: Game b\u1eafn c\u00e1 and claude-3-7-sonnet-20250219",
+                "time": "2025-03-31 11:34:26"
+            },
+            {
+                "amount": "2935.00",
+                "description": "Write SEO: Game b\u1eafn c\u00e1 and claude-3-7-sonnet-20250219",
+                "time": "2025-03-31 11:34:05"
+            },
+            {
+                "amount": "1000.00",
+                "description": "Generate outline: Game b\u1eafn c\u00e1 and gemini-1.5-pro",
+                "time": "2025-03-31 11:23:40"
+            },
+            {
+                "amount": "374.00",
+                "description": "Write SEO: Manuel neuer and gemini-2.0-flash",
+                "time": "2025-03-31 11:13:57"
+            },
+            {
+                "amount": "685.00",
+                "description": "Write SEO: Manuel neuer and gemini-2.0-flash",
+                "time": "2025-03-31 11:13:53"
+            },
+            {
+                "amount": "386.00",
+                "description": "Write SEO: Manuel neuer and gemini-2.0-flash",
+                "time": "2025-03-31 11:13:46"
+            },
+            {
+                "amount": "413.00",
+                "description": "Write SEO: Manuel neuer and gemini-2.0-flash",
+                "time": "2025-03-31 11:13:42"
+            },
+            {
+                "amount": "457.00",
+                "description": "Write SEO: Manuel neuer and gemini-2.0-flash",
+                "time": "2025-03-31 11:13:36"
+            },
+            {
+                "amount": "1000.00",
+                "description": "Generate outline: Manuel neuer and gemini-2.0-flash",
+                "time": "2025-03-31 11:13:17"
+            },
+            {
+                "amount": "1000.00",
+                "description": "Generate outline: Lionel Messi and gemini-2.0-flash",
+                "time": "2025-03-31 11:00:51"
+            },
+            {
+                "amount": "535.00",
+                "description": "Write SEO: Cristiano Ronaldo and gemini-2.0-flash",
+                "time": "2025-03-31 10:58:13"
+            },
+            {
+                "amount": "344.00",
+                "description": "Write SEO: Cristiano Ronaldo and gemini-2.0-flash",
+                "time": "2025-03-31 10:58:03"
+            },
+            {
+                "amount": "391.00",
+                "description": "Write SEO: Cristiano Ronaldo and gemini-2.0-flash",
+                "time": "2025-03-31 10:57:55"
+            },
+            {
+                "amount": "1000.00",
+                "description": "Generate outline: Cristiano Ronaldo and gemini-2.0-flash",
+                "time": "2025-03-31 10:08:36"
+            }
+        ],
+        "message": "Success"
+    },
+    "notifications": {
+        "last_checked": "...",
+        "data": [
+            {
+                "content": "Have a good day!",
+                "timestamp": "2025-04-01 22:37:42",
+                "read": true
+            },
+            {
+                "content": "Welcome to best write App 2025!",
+                "timestamp": "2025-04-01 22:32:58",
+                "read": true
+            },
+            {
+                "content": "Contact me if you need assistance! Tele: @phaolohung",
+                "timestamp": "2025-04-01 20:14:09",
+                "read": true
+            }
+        ]
+    },
+    "saved_username": "nhoczit111",
+    "saved_password": "6xnoIQHydQupHU7iJs2T2uORim/3a+rbYn3V"
+}
