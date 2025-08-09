@@ -70,6 +70,7 @@ source venv/bin/activate       # On Linux/macOS
 
 pip install -r requirements.txt
 py -3.10 main_app.py
+```
 ---
 
 ## 5. Notes
