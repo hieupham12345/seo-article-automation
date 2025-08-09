@@ -72,7 +72,7 @@ pip install -r requirements.txt
 py -3.10 main_app.py
 ```
 
-# Exporting the app with PyInstaller
+**Exporting the app with PyInstaller**
 If you want to package the app into a standalone Windows executable, you can use PyInstaller with the following command (run inside your activated Python 3.10 environment):
 
 ```bash
