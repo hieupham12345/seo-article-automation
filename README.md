@@ -24,7 +24,7 @@ The tool is designed to:
 - **Bulk write** multiple articles at once  
 - Deliver **SEO scores of 90–100%** for most content  
 - Provide **100% SEO optimization** for certain Latin-based languages  
-- **Fix spun/duplicated content** using Google Search checks  
+- **Fix spin/duplicated content** using Google Search checks  
 - **Auto-optimize images for SEO** (alt text, compression, naming)  
 
 > This is a **personal project** developed during my student years.  
