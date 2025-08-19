@@ -193,10 +193,16 @@ def generate_seo_outline_api(main_key, secondary_keywords, number_of_h2, number_
         **Các phần của dàn bài:**
 
         1. **Meta description (160-180 kí tự):**
-            * CHỈ chứa DUY NHẤT 1 từ khóa chính và 1 từ khóa thương hiệu nếu có.
-            * KHÔNG dùng icon.
-            * **Tập trung KHƠI GỢI TỘT ĐỘ SỰ TÒ MÒ, kích thích MẠNH MẼ việc click chuột.**  Viết như một câu "mồi nhử" hấp dẫn nhất.
-
+            **Phong cách (QUAN TRỌNG NHẤT)**:
+            * Viết như một lời "mồi" (hook) đầy bí ẩn, đặt ra một câu hỏi ngầm hoặc gợi ý về một sự thật gây sốc mà người đọc chưa từng biết.
+            * Tạo ra một "khoảng trống thông tin" (information gap) khiến người đọc cảm thấy bắt buộc phải click để tìm ra câu trả lời.
+            * Tập trung 100% vào việc khơi gợi sự tò mò, thay vì mô tả nội dung bài viết.
+            ** TUYỆT ĐỐI KHÔNG:**
+            * Không sử dụng các cụm từ mô tả như: "with us", "we reveal", "this article explores", "learn more about", "discover...".
+            * Không nói về bài viết. Hãy nói về chủ đề theo cách đầy bí ẩn.
+            * Không dùng icon.
+        
+        
         2. **Tiêu đề chính (H1) (tối đa 60 kí tự):**
             * CHỨA từ khóa chính.
             * **SÁNG TẠO VƯỢT BẬC, GIẬT TÍT ĐỘC ĐÁO, ĐA DẠNG, HẤP DẪN TUYỆT ĐỐI.**
