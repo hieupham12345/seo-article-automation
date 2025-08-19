@@ -112,7 +112,9 @@ MODEL_OPTIONS_OUTLINE = {
 
     "Gemini 1.5 pro [1000]": ("gemini", "gemini-1.5-pro"),
     "Gemini 2.0 flash [1000]": ("gemini", "gemini-2.0-flash"),
-    "Chatgpt 4.1 mini [1000]": ("chatgpt", "gpt-4.1-mini")
+    "Chatgpt 4.1 mini [1000]": ("chatgpt", "gpt-4.1-mini"),
+    "Chatgpt 5 mini [1000]": ("chatgpt", "gpt-5-mini")
+
 }
 
 
@@ -120,8 +122,12 @@ MODEL_OPTIONS_WRITE = {
     "Gemini 2.5 pro [3000]": ("gemini", "gemini-2.5-pro-preview-03-25"),
 
     "Gemini 1.5 pro [3000]": ("gemini", "gemini-1.5-pro"),
+    "Chatgpt 5 [3000]": ("chatgpt", "gpt-5"),
+
     "Chatgpt 4.5 [3000]": ("chatgpt", "gpt-4.5-preview"),
     "Chatgpt 4.1 [3000]": ("chatgpt", "gpt-4.1"),
+    "Chatgpt 4o [3000]": ("chatgpt", "gpt-4o"),
+
     "Gemini 2.5 flash [1000]": ("gemini", "gemini-2.5-flash-preview-04-17"),
 
     "Gemini 2.0 flash [1000]": ("gemini", "gemini-2.0-flash"),

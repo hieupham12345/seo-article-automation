@@ -193,7 +193,7 @@ def generate_seo_outline_api(main_key, secondary_keywords, number_of_h2, number_
         **Các phần của dàn bài:**
 
         1. **Meta description (160-180 kí tự):**
-            * CHỈ chứa DUY NHẤT 1 từ khóa chính và 1 từ khóa thương hiệu (hoặc "chúng tôi").
+            * CHỈ chứa DUY NHẤT 1 từ khóa chính và 1 từ khóa thương hiệu nếu có.
             * KHÔNG dùng icon.
             * **Tập trung KHƠI GỢI TỘT ĐỘ SỰ TÒ MÒ, kích thích MẠNH MẼ việc click chuột.**  Viết như một câu "mồi nhử" hấp dẫn nhất.
 
