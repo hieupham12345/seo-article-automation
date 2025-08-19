@@ -143,7 +143,7 @@ Outline:
 <img width="916" height="571" alt="image" src="https://github.com/user-attachments/assets/84bf222d-cbdf-4f70-9403-3738576d111d" />
 
 Full Article:
-[View the PDF](https://drive.google.com/file/d/1vl53VrdKYN7ec11prjtDSPaZToan76aA/view?usp=drive_link)
+[View the PDF](https://drive.google.com/file/d/1l3OxfHlszhJZ9YnPyvOYwvNFSU6NSimk/view?usp=sharing)
 
 ---
 
