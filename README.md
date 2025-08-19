@@ -132,6 +132,19 @@ GOOGLE_SEARCH_API=your_google_search_api_key
 
 ## 6. Usage & Demo
 
+**You won’t always get a complete article right away; sometimes you’ll need to try multiple times to get the best result.**
+**The tool is running smoothly with GPT-4o and Gemini 1.5 Pro models.**
+
+<img width="1530" height="997" alt="image" src="https://github.com/user-attachments/assets/96c0800c-503b-4981-b56d-deacb095fa15" />
+
+Keyword: Cristiano Ronaldo, biography, playing career at MU 
+
+Outline:
+<img width="916" height="571" alt="image" src="https://github.com/user-attachments/assets/84bf222d-cbdf-4f70-9403-3738576d111d" />
+
+Full Article:
+[View the PDF](https://drive.google.com/file/d/1vl53VrdKYN7ec11prjtDSPaZToan76aA/view?usp=drive_link)
+
 ---
 
 ## 7. License
